@@ -3,7 +3,7 @@
 # Gabriel Monte Zehyr
 
 ## Olá pessoal 👋
-Sou apaixonado por programação e sempre busco por oportunidades de aprender algo novo.
+Gosto muito de programação e sempre busco por oportunidades de aprender algo novo.
  <br/>
 Sou um estudante de desenvolvimento web:computer:
 
