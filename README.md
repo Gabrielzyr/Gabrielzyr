@@ -1,5 +1,3 @@
-<img width="350px" src="https://avatars2.githubusercontent.com/u/64475947?s=460&u=3e8eca98f2b4152c1717bf8c09189f92d0f35ac5&v=4">
-
 # Gabriel Monte Zehyr
 
 ## Olá pessoal 👋
