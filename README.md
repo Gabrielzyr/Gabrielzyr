@@ -3,7 +3,7 @@ Javascript developer:computer:
 Enthusiast of web and mobile technologies always looking for the next level.
  <br/>
 
- :rocket:  &nbsp; Student of Rocketseat's GoStack bootcamp.
+ :rocket:  &nbsp; Student at 42 São Paulo.
  <br/> :purple_heart: &nbsp; Interested in Frontend development with ReactJs and React Native or Backend with NodeJs
  <br/> :computer: &nbsp; My stack: HTML, CSS, Javascript, ReactJS, React Native, Typescript, Node.js, PostgreSQL
  <br/>
