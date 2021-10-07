@@ -1,6 +1,7 @@
 # Gabriel Monte Zehyr
-Javascript developer:computer:
-Enthusiast of web and mobile technologies always looking for the next level.
+Software engineering student:computer:
+
+Enthusiast of web and mobile technologies.
  <br/>
 
  :rocket:  &nbsp; Student at 42 São Paulo.
